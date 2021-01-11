@@ -1,4 +1,4 @@
 import { createApp } from 'vue';
-import App from './App.vue';
+import VueTable from './VueTable.vue';
 
-createApp(App).mount('#app');
+createApp(VueTable).mount('#app');
